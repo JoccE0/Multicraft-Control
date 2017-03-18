@@ -5,6 +5,7 @@ $serverID = [
   $server2 = 2
 
 ];
+$APILink = "http://linkhere/multicraft";
 
 
 ?>
